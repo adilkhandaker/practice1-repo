@@ -1,0 +1,28 @@
+h1 {
+    color: goldenrod;
+    background-color: aliceblue;
+    margin: 20px;
+    border: 2px solid gainsboro;
+    padding: 5px;
+    text-align: center;
+}
+
+h3 {
+    display: inline;
+    color: fuchsia;
+    padding: 10px;
+    background-color: crimson;
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+
+}
+
+.title-bar {
+    background-color: azure;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    border: 8px solid antiquewhite;
+}
